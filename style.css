@@ -100,12 +100,18 @@ body{
   color: #fff;
   font-family: 'Century Gothic', sans-serif;
 }
+.content ul h5{
+  text-decoration: none;
+  color: #fff;
+}
 .content h1{
+  text-decoration: none;
   color: orange;
   text-transform: uppercase;
   font-weight: bold;
 }
 .content p{
+  color: #fff;
   letter-spacing: 3px;
 }
 .content h4{
