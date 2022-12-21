@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: arial;
+  font-family: ARIAL;
   
 }
 #animation {
@@ -99,10 +99,6 @@ body{
   margin-top: 6%;
   color: #fff;
   font-family: 'Century Gothic', sans-serif;
-}
-}
-.content p h1 h4 h5{
-  text-decoration: none;
 }
 .content ul h5{
   text-decoration: none;
