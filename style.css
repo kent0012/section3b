@@ -100,6 +100,10 @@ body{
   color: #fff;
   font-family: 'Century Gothic', sans-serif;
 }
+}
+.content p h1 h4 h5{
+  text-decoration: none;
+}
 .content ul h5{
   text-decoration: none;
   color: #fff;
@@ -109,6 +113,7 @@ body{
   color: orange;
   text-transform: uppercase;
   font-weight: bold;
+
 }
 .content p{
   color: #fff;
