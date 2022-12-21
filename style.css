@@ -31,6 +31,9 @@ body{
 .vertical ul{
   list-style: none;
 }
+.vertical a i{
+  margin-left: 30px;
+}
 .vertical li a{
   color: #fff;
   line-height: 100px;
@@ -78,14 +81,14 @@ body{
 .horizantal ul li a:hover{
   background: darkgray;
 }
-.horizantal ul li: hover ul.dropdown{
+.horizantal ul li:hover ul.dropdown{
   display: block;
 }
 .content img{
   margin-top: -10px;
   width: 200px;
   height: 200px;
-  border-radius: 50px;
+  border-radius: 50%;
 }
 .content{
   width: 450px;
