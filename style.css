@@ -119,4 +119,28 @@ body{
   color: orange;
   letter-spacing: 3px;
 }
-  
+.boxwan{
+  padding: 110px;
+  text-align: center;
+  margin: 20px;
+  margin-top: 2%;
+  color: #fff;
+  font-family: 'Century Gothic', sans-serif;
+}
+.boxwan h1{
+  color: orange;
+}
+.boxwan p{
+  font-size: 24px;
+  margin-bottom: 24px;
+  height: 15px;
+}
+.image img{
+  margin-top: 40px;
+  border-radius: 240px;
+  float: right;
+  margin-right: 100px;
+  width: 50%;
+  height: 300px;
+ 
+}
